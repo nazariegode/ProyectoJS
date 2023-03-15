@@ -1,0 +1,132 @@
+/Applications/Native\ Instruments/Traktor\ Pro\ 3/Traktor.app/Contents/MacOS/Traktor ; exit;
+$git
+which git
+node-v
+node -v
+https://github.com/nazariegode/Prep-Course.git
+git status
+\
+\
+$ git status
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/nazariegode/proyecto1.git\
+git push -u origin main
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+- brew doctor
+brew doctor
+homebrew
+						brew install git
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install git
+install git
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+git config --global user.name "David Nazariego"
+git config --global user.mail "dnazariego@gmail.com"
+git config --list
+/?
+git help
+dir
+dir
+dir
+dir
+dir
+cd
+cd../
+git bash
+git help
+init
+show
+git 
+cd
+dir
+git --version
+cd
+ls
+dir
+ls
+desktop
+ls desktop
+ls desktop
+ls nazarisushi
+nazarisushi
+ls
+ls desktop
+ls NazariSushi
+dir
+ls
+ls desktop nazarisushi
+/?
+git help
+log
+git init
+ls
+ls desktop
+ls nazarisushi
+cd desktop
+mkdir
+cd desktop
+mkdir nazarisushi
+cd nazarisushi/
+touch index.html style.css
+git init
+git add index.html
+git status
+git add .
+git status
+git commit -m "Creacion del proyecto"
+git
+git init
+git status
+node -v
+node -v
+npm init
+npm install -D node-sass
+npm run build-sass
+npm run build-sass
+npm run build-sass
+npm run build-sass
+ls
+ls desktop
+cd .ssh
+ssh-keygen -t rsa
+cd .ssh
+cd ..
+ls
+cd manuearell
+ls 
+ls -a
+cd ~/.ssh
+cd ~/.ssh
+ssh-keygen -t rsa
+ls -a
+ssh-keygen -t rsa
+ls -a
+cd .ssh
+ls
+cat id_rsa.pub
+cd ..
+git --version
+git config
+git config -list
+git config --list
+cd desktop nazarisuhi 2
+cd desktop
+ls
+cd NazariSushi_2
+cd NazariSushi
+git init
+git init 
+git status
+git add.
+git add .
+git status
+git commits -m "2 Entrega proyecto"  
+git commit -m "2 Entrega proyecto"  
+git branch -M main
+git remote add origin https://github.com/nazariegode/proyecto_2_entrega.git
+git push -u origin main 
+git clone git@github.com:nazariegode/proyecto_2_entrega.git
+git status

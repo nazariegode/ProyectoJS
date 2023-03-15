@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NIXML><TraktorSettings>
+<Entry Name="Routing.Mixer.External" Type="0" Value="1"></Entry>
+<Entry Name="Recording.Source" Type="1" Value="0"></Entry>
+<Entry Name="Mixer.Limiter.Select" Type="1" Value="1"></Entry>
+</TraktorSettings>
+</NIXML>
