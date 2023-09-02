@@ -1,0 +1,13 @@
+
+.cart-widget {
+    color: white;
+    font-size: 30px;
+    visibility: hidden;
+    opacity: 0;
+    transition: all .3s ease-in-out;
+}
+
+.cart-widget-active {
+    visibility: visible;
+    opacity: 1;
+}
